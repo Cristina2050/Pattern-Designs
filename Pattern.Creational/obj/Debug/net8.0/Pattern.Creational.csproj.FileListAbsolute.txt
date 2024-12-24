@@ -1,0 +1,11 @@
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.AssemblyInfoInputs.cache
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.AssemblyInfo.cs
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.csproj.CoreCompileInputs.cache
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\bin\Debug\net8.0\Pattern.Creational.deps.json
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\bin\Debug\net8.0\Pattern.Creational.dll
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\bin\Debug\net8.0\Pattern.Creational.pdb
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.dll
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\refint\Pattern.Creational.dll
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\Pattern.Creational.pdb
+C:\Users\CAMO0172\Documents\Proyectos\Examples\Pattern.Design\Pattern.Creational\obj\Debug\net8.0\ref\Pattern.Creational.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pattern.Designs/1.0.0": {
+        "dependencies": {
+          "Pattern.Creational": "1.0.0"
+        },
+        "runtime": {
+          "Pattern.Designs.dll": {}
+        }
+      },
+      "Pattern.Creational/1.0.0": {
+        "runtime": {
+          "Pattern.Creational.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern.Designs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pattern.Creational/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
